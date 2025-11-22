@@ -1,71 +1,48 @@
 <div align="center">
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
+
+  # 🐱 Hi there! I'm Vu Quoc Bao
+
+  ### "I code like a cat: Curious, calm, and most active at night." 🌙
+
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/byllkoy259/count.svg" />
+  </p>
+
+  ---
+
+  <div align="left">
+    <h3>🧐 About Me</h3>
+    <ul>
+      <li>🔭 I’m currently working on <b>[Dự án hiện tại]</b></li>
+      <li>🌱 I’m currently learning <b>[Công nghệ mới]</b></li>
+      <li>💤 Fun fact: <b>I hunt bugs like a cat hunts laser pointers.</b></li>
+      <li>🐈 Ask me about: <b>[Sở trường của bạn]</b> or <b>Cats!</b></li>
+    </ul>
+  </div>
+
+  ---
+
+  <h3>🛠 Tech Stack (My Toys)</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </p>
+
+  ---
+
+  <h3>📊 My Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=byllkoy259&show_icons=true&theme=catppuccin_latte&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byllkoy259&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Langs" />
+  </p>
+
+  ---
+
+  <img src="https://raw.githubusercontent.com/gist/rxaviers/7360908/raw/cat.gif" width="100%" />
   
-  <tr style="background-color: #2d333b;">
-    <td colspan="2" style="padding: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px;">
-      <div align="left">
-         <span style="color: #ff5f56; font-size: 20px;">●</span>
-         <span style="color: #ffbd2e; font-size: 20px;">●</span>
-         <span style="color: #27c93f; font-size: 20px;">●</span>
-         &nbsp;&nbsp;&nbsp;
-         <span style="font-family: monospace; color: #c9d1d9;">
-            📂 <b>byllkoy259</b> &nbsp;—&nbsp; profile.js
-         </span>
-      </div>
-    </td>
-  </tr>
+  <p align="center">Designed with 🐾 by Vu Quoc Bao</p>
 
-  <tr>
-    <td width="50" valign="top" style="background-color: #373e47; border-bottom-left-radius: 10px; text-align: center; padding-top: 20px;">
-        <a href="#" title="Explorer" style="text-decoration: none; font-size: 24px;">📄</a> <br><br>
-        <a href="#" title="Search" style="text-decoration: none; font-size: 24px;">🔎</a> <br><br>
-        <a href="#" title="Source Control" style="text-decoration: none; font-size: 24px;">🌳</a> <br><br>
-        <a href="#" title="Extensions" style="text-decoration: none; font-size: 24px;">📦</a> <br><br>
-    </td>
-
-    <td valign="top" style="background-color: #0d1117; border-bottom-right-radius: 10px; padding: 20px; font-family: monospace; color: #c9d1d9; text-align: left;">
-      
-      <div style="background-color: #161b22; padding: 5px 10px; border-radius: 5px; width: fit-content; margin-bottom: 20px; border-top: 2px solid #f78166;">
-        <span style="color: #f1e05a;">JS</span> &nbsp;profile.js &nbsp; <span style="color: #8b949e;">x</span>
-      </div>
-      
-      ```javascript
-const developer = {
-    name: "Vũ Quốc Bảo",
-    username: "byllkoy259",
-    role: "Fullstack Developer",
-    code: [
-        "Javascript",
-        "Python",
-        "HTML/CSS"
-    ],
-    tools: [
-        "React",
-        "Node.js",
-        "Git/GitHub"
-    ],
-    challenge: "Learning something new everyday 🚀"
-};
-
-// Console Log
-console.log("Welcome to my profile!");
-```
-      <br><br>
-      
-      <div style="border-top: 1px solid #30363d; padding-top: 10px;">
-          <div style="color: #8b949e; font-size: 12px; margin-bottom: 10px;">TERMINAL &nbsp;&nbsp; OUTPUT &nbsp;&nbsp; DEBUG CONSOLE</div>
-          
-          <span style="color: #27c93f;">byllkoy259@github</span>:<span style="color: #58a6ff;">~</span>$ display-stats
-          <br><br>
-          
-          <div align="left">
-            <img src="https://github-readme-stats.vercel.app/api?username=byllkoy259&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="stats" height="130" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byllkoy259&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="languages" height="130" />
-          </div>
-      </div>
-
-    </td>
-  </tr>
-</table>
 </div>
