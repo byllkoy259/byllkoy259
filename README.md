@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey yo wassup! 👋 I'm Quoc Bao Vu.<br>IT Senior @ Hanoi University of Science and Technology (HUST) 🎓 | Hanoi, Vietnam.<br><br>My favourite quote:<br>"You have to learn the rules of the game. And then you have to play better than anyone else."
+Hey yo wassup! 👋 I'm Quoc Bao Vu.<br>IT Senior @ Hanoi University of Science and Technology (HUST) 🎓 | Hanoi, Vietnam.<br><br>My favourite quote:<br>"Life is a journey, not a destination."
 
 
 ## 🌐 Socials:
